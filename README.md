@@ -1,4 +1,4 @@
-ShayganTelegramBotApiBundle
+DanialTelegramBotApiBundle
 ===================
 
 A symfony wrapper bundle for  [Telegram Bot API](https://core.telegram.org/bots/api) with some tiny feature.
